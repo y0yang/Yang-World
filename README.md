@@ -3,4 +3,4 @@ A Yangyang's world
 
 Hi humans!
 
-Yang here, i like python.
+Yang here, I like python.
